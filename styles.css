@@ -43,3 +43,10 @@ p {
 img {
     padding-top: 20px;
 }
+
+@media (max-width: 768px) {
+    .mobile-hide {
+        width: 298px;
+        height: 240.5px;
+    }
+}
