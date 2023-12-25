@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c9a0dc;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(241, 224, 239);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    color: #A437DB;
+}
+
+p {
+    color: #666;
+}
+
+.countdown {
+    color: #333;
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+.social-icons {
+    margin-top: 30px;
+}
+
+.social-icons a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #666;
+    font-size: 24px;
+}
+
+img {
+    padding-top: 20px;
+}
